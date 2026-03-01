@@ -1,0 +1,5 @@
+{
+  "name": "CloudGuard IDS",
+  "description": "Hybrid Signature and ML-based Intrusion Detection System for Cloud Networks.",
+  "requestFramePermissions": []
+}
